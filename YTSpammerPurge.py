@@ -29,6 +29,9 @@
 ### Author:   ThioJoe - YouTube.com/ThioJoe
 ###                     Twitter.com/ThioJoe
 ###
+### Contributor: ScamBam
+###
+###
 ### GitHub:   https://github.com/ThioJoe/YT-Spammer-Purge/
 ###
 ### License:  GPL-3.0
